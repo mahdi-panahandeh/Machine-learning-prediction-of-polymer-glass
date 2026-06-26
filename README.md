@@ -1,4 +1,4 @@
-# Machine-learning-prediction-of-polymer-glass Machine learning prediction of polymer glass transition temperature from SMILES using XGBoost and Graph Neural Networks
+# Machine learning prediction of polymer glass transition temperature from SMILES using XGBoost and Graph Neural Networks
 # Machine Learning Prediction of Polymer Glass Transition Temperature
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
